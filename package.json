@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-webview": "^8.0.3",
+    "react-navigation": "^4.0.10"
+  }
+}
